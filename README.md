@@ -117,10 +117,10 @@ python consultant_teacher_socratic_teaching_system.py
 
 
 ## 🧠 **SocratTeachLLM**
-+ 基座模型： GLM4-9B-Chat
-+ 微调方式： LoRA
-+ 训练数据：SocratDataset（训练集：90%；验证集：10%）
-+ 实验结果
++ 基座模型：GLM4-9B-Chat
++ 微调方式：LoRA
++ 训练数据：SocratDataset（训练集：90%、验证集：10%）
++ 实验结果：
 
 ![SocratTeachLLM 在全部指标上均超越 GPT-4o](https://cdn.nlark.com/yuque/0/2025/png/50896216/1762090224324-947360cb-4f19-4733-a746-b6a2bc7c0ddf.png)
 

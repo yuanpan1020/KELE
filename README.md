@@ -1,6 +1,6 @@
 # [KELE:](https://music.163.com/#/song?id=29759733) A Multi-Agent Framework for Structured Socratic Teaching with Large Language Models（EMNLP 2025）
 
-> 📄 [论文链接（待上线）]() ｜ 🤗 [模型地址](https://huggingface.co/yuanpan/SocratTeachLLM)
+> 📄 [论文链接](https://aclanthology.org/2025.findings-emnlp.888/) ｜ 🤗 [模型地址](https://huggingface.co/yuanpan/SocratTeachLLM)
 
 
 
